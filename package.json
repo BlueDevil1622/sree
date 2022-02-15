@@ -1,0 +1,20 @@
+{
+  "name": "serversideapps",
+  "version": "1.0.0",
+  "description": "This package is for server side purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sreenivas",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.1"
+  },
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
